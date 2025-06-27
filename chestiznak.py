@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен  бота (получить у @BotFather)
-BOT_TOKEN = "8175173195:AAHt1cQCbLhz0LC9lv2XGv46SJbKwHoJ_3o"
+BOT_TOKEN = ""
 
 class DataMatrixBot:
     def __init__(self):
